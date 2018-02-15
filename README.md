@@ -1,4 +1,4 @@
-Configuracion de drivers para DEVkit 2.0
+Configuracion de drivers para NXTIoT DEVkit
 =============
 
 
@@ -18,7 +18,7 @@ Configuracion de drivers para DEVkit 2.0
 Introducción
 ------------
 
-En esta guía se describen los pasos a seguir para instalar los controladores necesarios para lograr el funcionamiento adecuado del DEVkit V2.0 en un entorno Windows.
+En esta guía se describen los pasos a seguir para instalar los controladores necesarios para lograr el funcionamiento adecuado del DEVkit en un entorno Windows.
 
 
 
