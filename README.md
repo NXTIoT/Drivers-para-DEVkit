@@ -18,14 +18,14 @@ Configuracion de drivers para NXTIoT DEVkit
 Introducción
 ------------
 
-En esta guía se describen los pasos a seguir para instalar los controladores necesarios para lograr el funcionamiento adecuado del DEVkit en un entorno Windows.
+En esta guía se describen los pasos a seguir para instalar los controladores necesarios para lograr el funcionamiento adecuado del Devkit en Windows 8 y Windows 10.
 
 
 
 Requisitos
 ------------
 - NXTIoT Devkit 
-- Sistema Windows 7/8/8.1/10
+- Sistema Operativo Windows 8/8.1/10
 - Controladores FTDI CDM ([Descarga](http://www.ftdichip.com/Drivers/VCP.htm))
 - Controladores CH340    ([Descarga](https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip))
 
